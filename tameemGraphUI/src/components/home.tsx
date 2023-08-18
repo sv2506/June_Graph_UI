@@ -1,11 +1,7 @@
-// import React, { Component } from 'react';
 import logo from "./../assets/graphUILogo.png"
-// import { Link } from 'react-router-dom';
 import TryButton from './tryButton';
-// import UploadPage from './uploadPage';
 
 interface homeProps {
-//   to: any;
 }
 
 const home: React.FC<homeProps> = ({}) => {

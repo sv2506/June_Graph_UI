@@ -50,3 +50,15 @@ body {
   font-size: 18px; 
   line-height: 1.5; 
 }
+
+.try-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.try-button:hover {
+  background-color: #0056b3;
+}
