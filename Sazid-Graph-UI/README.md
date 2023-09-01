@@ -1,43 +1,46 @@
+
 GraphUI Project
-GraphUI is a web application designed to allow users to upload JSON files and visually represent their hierarchical data structure. This tool offers an intuitive platform to explore and understand complex JSON structures in a graphic format.
+GraphUI is a web application that allows users to upload JSON files and visualize their hierarchical data structure. It provides an intuitive way to explore complex JSON structures in a graphical manner.
 
-🌟 Features
-📂 Upload and Visualize: Users can easily upload JSON files and visualize their hierarchical layout in a structured manner.
-🌳 Tree Interactions: Interact with the data structure by expanding and collapsing tree nodes, offering a deeper insight into nested objects and arrays.
-🚀 User-friendly Interface: An intuitive design makes navigation and understanding nested structures straightforward and efficient.
-🛠 Technologies Used
-React: A modern JavaScript library ideal for developing interactive user interfaces.
-TypeScript: A typed extension of JavaScript ensuring better readability and robustness.
-CSS: Used for styling and ensuring a visually appealing application presentation.
-🚀 Getting Started
-To set up and run the GraphUI project, follow these steps:
+Features
+Upload JSON files and visualize their hierarchical structure.
+Interact with the tree by expanding and collapsing nodes.
+User-friendly interface for navigating and understanding nested objects and arrays.
+Technologies Used
+React: A JavaScript library for building user interfaces.
+TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+CSS: Cascading Style Sheets for styling the application.
+Getting Started
+Follow these steps to run the project locally:
 
-Clone the Repository: Use the following command to clone the repository:
+Clone the Repository: Clone this repository to your local machine using:
 
-
+bash
+Copy code
 git clone https://github.com/sv2506/June_Graph_UI.git
-Navigate to the Project Directory:
+Navigate to the Project Directory: Open a terminal and navigate to the project directory:
 
-
+bash
+Copy code
 cd June_Graph_UI
 cd Sazid-Graph-UI
-Install Dependencies:
+Install Dependencies
 
-
+bash
+Copy code
 npm install
-Run the Application:
+Run the application
 
-
+bash
+Copy code
 npm run dev
-Access the Application: Launch your preferred browser and navigate to:
+Access the Application: Go to your browser and type the following URL: http://localhost:5173/
 
+Upload JSON File: Click the "Upload JSON" button to select and upload a JSON file. The uploaded JSON file will be displayed in an interactive tree structure.
 
-http://localhost:5173/
-Uploading JSON: Click the "Upload JSON" button, choose your JSON file, and watch as it gets displayed as an interactive tree structure.
+Interact with Tree: Expand and collapse nodes in the tree to navigate through the JSON structure. Child nodes are indented for better readability.
 
-Engage with the Tree: Expand and collapse nodes, allowing you to delve into the depths of your JSON structure. Nested objects and arrays are clearly represented for easy interpretation.
+Back to Main Page: You can return to the main page by clicking the "Back to Main Page" button.
 
-Returning to the Home Page: Whenever you need, click the "Back to Main Page" button to return to the starting screen.
-
-Shutting Down: When you're done, simply press Ctrl + C in your terminal to stop the application.
+Close the Application: Press Ctrl + C in the terminal to stop the application when you're done.
 
