@@ -1,10 +1,10 @@
 import logo from "./../assets/graphUILogo.png"
 import TryButton from './tryButton';
 
-interface homeProps {
+interface HomeProps {
 }
 
-const home: React.FC<homeProps> = ({}) => {
+const Home: React.FC<HomeProps> = ({}) => {
     return (
         <div className="app-container">
           <div className="logo-and-title">
@@ -27,4 +27,4 @@ const home: React.FC<homeProps> = ({}) => {
       );
 }
 
-export default home;
+export default Home;
