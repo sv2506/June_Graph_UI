@@ -1,18 +1,18 @@
-#**GraphUI Project**
+# **GraphUI Project**
 
 GraphUI is a web application designed to simplify the way users interact with and visualize hierarchical JSON data structures. With a sleek and intuitive interface, GraphUI makes exploring and navigating complex JSON trees an effortless task.
 
-##**Features**
+## **Features**
 - *Upload & Visualize:* Seamlessly upload your JSON files and get a visual representation of your data.
 - *Interactive Tree:* Engage with your data by expanding and collapsing tree nodes.
 - *User-centric Design:* With a clear and intuitive UI, understanding nested objects and arrays has never been easier.
 
-##**Technologies Used**
+## **Technologies Used**
 - *React:* Leveraged for building dynamic and efficient user interfaces.
 - *TypeScript:* This project enjoys the robustness of TypeScript, a typed superset of JavaScript.
 - *CSS:* Utilized for styling, ensuring the application is as visually appealing as it is functional.
 
-##**Getting Started**
+## **Getting Started**
 
 Follow these steps to run the project locally:
 
